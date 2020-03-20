@@ -1,0 +1,14 @@
+flask
+numpy
+requests
+wave
+soundfile
+librosa
+keras==2.2.4
+scikit-learn
+python_speech_features
+scipy
+gunicorn
+tensorflow==1.12.0
+pyaudio
+
